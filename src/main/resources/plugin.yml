@@ -1,0 +1,4 @@
+name: InvDrop
+version: '${project.version}'
+main: ltd.teaparty.invdrop.InvDrop
+api-version: '1.20'

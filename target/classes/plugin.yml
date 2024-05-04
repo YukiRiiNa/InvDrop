@@ -1,0 +1,4 @@
+name: InvDrop
+version: '1.0'
+main: ltd.teaparty.invdrop.InvDrop
+api-version: '1.20'
